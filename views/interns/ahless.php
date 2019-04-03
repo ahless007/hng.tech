@@ -13,7 +13,7 @@
                      <div class="intern-block border-blue">
                         <img src="https://res.cloudinary.com/ahless/image/upload/v1554313059/IMG_1812_copy.jpg" alt="Alexander Garuba">
                         <h6>Alexander Garuba</h6>
-                        <p>Front-end Engineer</p>
+                        <p>Front-end Developer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/ahless007" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/ahless007" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
@@ -24,10 +24,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm a Freelance Software Developer. I help startups and fairly large corporations/companies build meaningful web experiences and scalable web applications</p>
+                        <p>I'm a self taught Frontend Developer and Backend Developer. Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP | VueJs</p>
+                        <p>JavaScript | PHP | CSS</p>
                      </div>
                   </div>
                </div>
